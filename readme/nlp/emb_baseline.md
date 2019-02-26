@@ -24,7 +24,7 @@
 - [2018 ICML] **Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations**, [[paper]](https://arxiv.org/pdf/1806.09464.pdf), [supplementary](http://web.cs.ucla.edu/~yzsun/papers/2018_icml_KDCoding_supp.pdf), sources: [[chentingpc/kdcode-lm]](https://github.com/chentingpc/kdcode-lm).
 - [2018 ICLR] **Compressing Word Embeddings via Deep Compositional Code Learning**, [[paper]](https://openreview.net/pdf?id=BJRZzFlRb), [[bibtex]](/Bibtex/Compressing%20Word%20Embeddings%20via%20Deep%20Compositional%20Code%20Learning.bib), sources: [[msobroza/compositional_code_learning]](https://github.com/msobroza/compositional_code_learning).
 
-## Baseline Systems
+## General Language Model (Baseline Systems)
 - [2017 NIPS] **Learned in Translation: Contextualized Word Vectors**, [[paper]](https://arxiv.org/pdf/1708.00107.pdf), sources: [[salesforce/cove]](https://github.com/salesforce/cove).
 - [2018 NAACL] **Deep contextualized word representations**, [[paper]](https://arxiv.org/pdf/1802.05365.pdf), [[homepage]](https://allennlp.org/elmo), sources: [[allenai/bilm-tf]](https://github.com/allenai/bilm-tf).
 - [2018 ArXiv] **GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations**, [[paper]](https://arxiv.org/pdf/1806.05662.pdf), [[bibtex]](GLoMo%20-%20Unsupervisedly%20Learned%20Relational%20Graphs%20as%20Transferable%20Representations.bib).
