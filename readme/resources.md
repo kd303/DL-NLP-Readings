@@ -97,6 +97,7 @@
 - [[karthikncode/nlp-datasets]](https://github.com/karthikncode/nlp-datasets), _A list of datasets/corpora for NLP tasks, in reverse chronological order_.
 - [[awesomedata/awesome-public-datasets]](https://github.com/awesomedata/awesome-public-datasets), _A topic-centric list of HQ open datasets in public domains_.
 - [[RedditSota/state-of-the-art-result-for-machine-learning-problems]](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems).
+- [[Psyche-mia/Awesome-GANs]](https://github.com/Psyche-mia/Awesome-GANs), _Awesome Generative Adversarial Networks with tensorflow_.
 
 ## Others
 - **LaTex Introduction**, [[book]](/Documents/LaTex%20Intro.pdf).
