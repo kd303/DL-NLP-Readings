@@ -1,6 +1,6 @@
 # My Reading Lists of Machine Learning, Natural Language Processing and etc.
 
-> Keeping update and appending new things...
+> Keeping update and appending new items...
 
 ## Table of Contents
 1. Natural Language Processing
