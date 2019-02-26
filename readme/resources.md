@@ -74,12 +74,12 @@
 - **Python教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000).
 - **编程之法：面试和算法心得**, [[julycoding/The-Art-Of-Programming-By-July]](https://github.com/julycoding/The-Art-Of-Programming-By-July).
 
-## Reading Lists
-- [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP), _reading lists_.
-- [[kjw0612/awesome-rnn]](https://github.com/kjw0612/awesome-rnn), _reading lists_.
-- [[keon/awesome-nlp]](https://github.com/keon/awesome-nlp), _reading lists_.
-- [[snakeztc/NeuralDialogPapers]](https://github.com/snakeztc/NeuralDialogPapers), _reading lists_.
-- [[kristjankorjus/applied-deep-learning-resources]](https://github.com/kristjankorjus/applied-deep-learning-resources), _reading lists -- mainly focusing on CNNs_.
+## Useful GitHub Resource Collections
+- [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP).
+- [[kjw0612/awesome-rnn]](https://github.com/kjw0612/awesome-rnn).
+- [[keon/awesome-nlp]](https://github.com/keon/awesome-nlp).
+- [[snakeztc/NeuralDialogPapers]](https://github.com/snakeztc/NeuralDialogPapers).
+- [[kristjankorjus/applied-deep-learning-resources]](https://github.com/kristjankorjus/applied-deep-learning-resources), _mainly focusing on CNNs_.
 - [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
 - [[Kyubyong/nlp_tasks]](https://github.com/Kyubyong/nlp_tasks).
 - [[brightmart/text_classification]](https://github.com/brightmart/text_classification).
@@ -91,6 +91,12 @@
 - [[hankcs/HanLP]](https://github.com/hankcs/HanLP), _自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁_.
 - [[julycoding/BAT-ML-1000]](https://github.com/julycoding/BAT-ML-1000), _BAT机器学习面试1000题系列_.
 - [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
+- [[dkozlov/awesome-knowledge-distillation]](https://github.com/dkozlov/awesome-knowledge-distillation), _Knowledge Distillation Resources_.
+- [[eriklindernoren/PyTorch-GAN]](https://github.com/eriklindernoren/PyTorch-GAN), _PyTorch implementations of Generative Adversarial Networks_.
+- [[hwalsuklee/tensorflow-generative-model-collections]](https://github.com/hwalsuklee/tensorflow-generative-model-collections), _Collection of generative models in Tensorflow_.
+- [[karthikncode/nlp-datasets]](https://github.com/karthikncode/nlp-datasets), _A list of datasets/corpora for NLP tasks, in reverse chronological order_.
+- [[awesomedata/awesome-public-datasets]](https://github.com/awesomedata/awesome-public-datasets), _A topic-centric list of HQ open datasets in public domains_.
+- [[RedditSota/state-of-the-art-result-for-machine-learning-problems]](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems).
 
 ## Others
 - **LaTex Introduction**, [[book]](/Documents/LaTex%20Intro.pdf).
