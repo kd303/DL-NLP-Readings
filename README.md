@@ -12,11 +12,7 @@
     6. [Sequence Labeling (POS, NER, SRL, RE, Dependency Parsing, Entity Linking, Punctuation Restoration and etc.)](/readme/nlp/sequence_labeling.md)
     7. [Knowledge Graph and Social Network Representation](/readme/nlp/graph.md)
     8. [Sentiment Analysis and Text Classification](/readme/nlp/classification.md)
-<<<<<<< HEAD
-    9. [Char/Word Embeddings and Baseline Systems](/readme/nlp/emb_baseline.md)
-=======
-    9. [Char/Word Embeddings and Language Modeling Systems](/readme/nlp/emb_baseline.md)
->>>>>>> c225b50b6bc0e120c39a750bd022c2c3d942b04f
+    9. [Char/Word Embeddings and Language Modeling Systems](/readme/nlp/emb_lm.md)
     10. [Sentence Representation, Natural Language Inference and Summarization](/readme/nlp/sent_emb_nli.md)
     11. [Interpretability, Disambiguation, Anaphora and Discourse](/readme/nlp/interpretability.md)
     12. [Multi-tasks and Other NLP Research Works](/readme/nlp/multi_others.md)
