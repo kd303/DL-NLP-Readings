@@ -1,6 +1,6 @@
 # Other Network Structures
 
-> Including **Neural Tuning Machine (NTM)**, **Memory Network (MEM)**, **Capsule Network**, **Autoencoder**, **Highway Network**, **Residual Network**, **Generative Adversarial Network (GAN)** and etc.
+> Including **Neural Tuning Machine (NTM)**, **Memory Network (MEM)**, **Capsule Network**, **Autoencoder**, **Highway Network**, **Residual Network** and etc.
 
 ## Neural Tuning Machine
 - [2014 ArXiv] **Neural Turing Machines**, [[paper]](https://arxiv.org/abs/1410.5401.pdf), sources: [[carpedm20/NTM-tensorflow]](https://github.com/carpedm20/NTM-tensorflow).
@@ -24,8 +24,3 @@
 
 ## Residual Network
 - [2016 CVPR] **Deep Residual Learning for Image Recognition**, [[paper]](https://arxiv.org/abs/1512.03385), sources: [[IsaacChanghau/AmusingPythonCodes/resnet]](https://github.com/IsaacChanghau/AmusingPythonCodes/tree/master/resnet), [[wenxinxu/resnet-in-tensorflow]](https://github.com/wenxinxu/resnet-in-tensorflow).
-
-## Generative Adversarial Network
-- [2014 NIPS] **Generative Adversarial Nets**, [[paper]](https://arxiv.org/abs/1406.2661), sources: [[goodfeli/adversarial]](https://github.com/goodfeli/adversarial), [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
-- [2016 ICLR] **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks**, [[paper]](https://arxiv.org/abs/1511.06434), sources: [[Newmu/dcgan_code]](https://github.com/Newmu/dcgan_code).
-- [2017 AAAI] **SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient**, [[paper]](https://arxiv.org/abs/1609.05473), sources:[[LantaoYu/SeqGAN]](https://github.com/LantaoYu/SeqGAN).
