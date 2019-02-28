@@ -100,6 +100,7 @@
 - [[Psyche-mia/Awesome-GANs]](https://github.com/Psyche-mia/Awesome-GANs), _Awesome Generative Adversarial Networks with tensorflow_.
 - [[hollobit/All-About-the-GAN]](https://github.com/hollobit/All-About-the-GAN), _All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN_.
 - [[jason718/awesome-self-supervised-learning]](https://github.com/jason718/awesome-self-supervised-learning), _A curated list of awesome Self-Supervised methods_.
+- [[fendouai/Awesome-Chatbot]](https://github.com/fendouai/Awesome-Chatbot), _Awesome Chatbot Projects, Corpus, Papers, Tutorials_.
 
 ## Others
 - **LaTex Introduction**, [[book]](/Documents/LaTex%20Intro.pdf).
