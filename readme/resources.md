@@ -88,7 +88,7 @@
 - [[ty4z2008/Qix]](https://github.com/ty4z2008/Qix), _Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang_.
 - [[jobbole/awesome-machine-learning-cn]](https://github.com/jobbole/awesome-machine-learning-cn), _机器学习资源大全中文版，包括机器学习领域的框架、库以及软件_.
 - [[ictar/python-doc]](https://github.com/ictar/python-doc), _translate python documents to Chinese for convenient reference_.
-- [[hankcs/HanLP]](https://github.com/hankcs/HanLP), _自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁_.
+- [[hankcs/HanLP]](https://github.com/hankcs/HanLP), [[hankcs/pyhanlp]](https://github.com/hankcs/pyhanlp), _自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁_.
 - [[julycoding/BAT-ML-1000]](https://github.com/julycoding/BAT-ML-1000), _BAT机器学习面试1000题系列_.
 - [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
 - [[dkozlov/awesome-knowledge-distillation]](https://github.com/dkozlov/awesome-knowledge-distillation), _Knowledge Distillation Resources_.
@@ -98,6 +98,8 @@
 - [[awesomedata/awesome-public-datasets]](https://github.com/awesomedata/awesome-public-datasets), _A topic-centric list of HQ open datasets in public domains_.
 - [[RedditSota/state-of-the-art-result-for-machine-learning-problems]](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems).
 - [[Psyche-mia/Awesome-GANs]](https://github.com/Psyche-mia/Awesome-GANs), _Awesome Generative Adversarial Networks with tensorflow_.
+- [[hollobit/All-About-the-GAN]](https://github.com/hollobit/All-About-the-GAN), _All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN_.
+- [[jason718/awesome-self-supervised-learning]](https://github.com/jason718/awesome-self-supervised-learning), _A curated list of awesome Self-Supervised methods_.
 
 ## Others
 - **LaTex Introduction**, [[book]](/Documents/LaTex%20Intro.pdf).
