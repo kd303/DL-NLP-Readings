@@ -36,5 +36,4 @@
   - The Annotated Transformer: [EN](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
   - 从Word Embedding到BERT - NLP预训练技术发展史: [CN](https://zhuanlan.zhihu.com/p/49271699)
   - NLP三大特征抽取器(CNN/RNN/Transformer)比较: [CN](https://zhuanlan.zhihu.com/p/54743941)
-- [2019 ArXiv] **Multi-Task Deep Neural Networks for Natural Language Understanding**, [[paper]](https://arxiv.org/pdf/1901.11504.pdf), [[bibtex]](/Bibtex/Multi-Task%20Deep%20Neural%20Networks%20for%20Natural%20Language%20Understanding.bib).
 - [2019 ArXiv] **Language Models are Unsupervised Multitask Learners**, [[paper]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf), [[homepage]](https://blog.openai.com/better-language-models/), sources: [[openai/gpt-2]](https://github.com/openai/gpt-2).

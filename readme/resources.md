@@ -1,34 +1,45 @@
-# Machine, Deep and Reinforcement Learning Resources, Reading Lists and Coding Books
+# Mathematics, Machine Learning, Deep Learning, Reinforcement Learning and Coding Resources
 
-## Machine, Deep and Reinforcement Learning Courses in CV and NLP
-- **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
-- **CS231n: Convolutional Neural Networks for Visual Recognition**, _Stanford University_, [[url]](http://cs231n.stanford.edu).
-- **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
-- **CS224d: Deep Learning for Natural Language Processing**, _Stanford University_, [[url]](http://cs224d.stanford.edu/index.html).
-- **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/#s).
-- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes]](http://www.hankcs.com/tag/cs224n/).
-- **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial), [[Chinese]](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B).
+## Linear Algebra
 - **Essence of linear algebra**, [[YouTube]](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
-- **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
-- **MIT 6.S099: Artificial General Intelligence**, _Massachusetts Institute of Technology_, [[url]](https://agi.mit.edu).
-- **Theories of Deep Learning (STATS 385)**, _Stanford University_, [[url]](https://stats385.github.io/readings), [[YouTube]](https://www.youtube.com/playlist?list=PLL20C1i47eFCf9JNw1Ed1seBiIPltf5U0).
-- **fast.ai: Making neural nets uncool again**, [[url]](http://www.fast.ai/), [[Ultimate guide to setting up a Google Cloud machine for fast.ai]](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43).
+- **Linear Algebra by Terence Tao (UCLA)**, [[homepage]](http://www.math.ucla.edu/~tao/resource/general/115a.3.02f/).
+- **Linear Algebra Done Right (线性代数应该这样学)**, [[book]](http://148.206.53.84/tesiuami/S_pdfs/Linear%20Algebra%20Done%20Right.pdf), [[Chinese version book]](/Documents/线性代数应该这样学.pdf).
+- **Introduction to Linear Algebra (线性代数及其应用)**, [[homepage]](http://math.mit.edu/~gs/linearalgebra/), [[book]](https://github.com/butterluo/btGitDoc/blob/master/algorithm/math/LinearAlgebra/Introduction%20to%20Linear%20Algebra%2C%204th%20edition--Gilbert%20Strang.pdf).
+- **Linear Algebra and Its Applications**, [[book]](http://www.math.hcmus.edu.vn/~bxthang/Linear%20algebra%20and%20its%20applications.pdf), [[Chinese version book]](https://github.com/stonycat/some-books-and-note/blob/master/Math/《线性代数及其应用》(美%20第三版)（中文版）.pdf).
 
-## Machine, Deep and Reinforcement Learning Books
+## Machine Learning
+- **CS229: Machine Learning**, _Stanford University_, [[url]](http://cs229.stanford.edu).
+- **Multiple Kernel Learning Algorithms**, [[paper]](http://jmlr.csail.mit.edu/papers/volume12/gonen11a/gonen11a.pdf).
 - **Pattern Recognition and Machine Learning**, [[book]](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf), [[Chinese version book]](https://github.com/wwkenwong/book/blob/master/PRML中文版_模式识别与机器学习.pdf), [[solutions]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-web-sol-2009-09-08.pdf).
 - **Machine Learning: A Probabilistic Perspective**, [[book]](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf).
 - **机器学习 (周志华)**, [[Chinese version book]](/Documents/机器学习.pdf).
 - **统计学习方法 (李航)**, [[Chinese version book]](http://ddl.escience.cn/f/Iwn0).
 - **Data Mining: Practical Machine Learning Tools and Techniques**, [[book]](https://www.wi.hs-wismar.de/~cleve/vorl/projects/dm/ss13/HierarClustern/Literatur/WittenFrank-DM-3rd.pdf).
-- **Deep Learning**, [[book]](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf), [[Chinese version book]](https://github.com/exacity/deeplearningbook-chinese), [[homepage]](http://www.deeplearningbook.org).
-- **Reinforcement Learning: An Introduction**, [[book]](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).
 
-## Natural Language Processing Books
+## Deep Learning for CV and NLP
+- **Neural Networks for NLP**, _Carnegie Mellon University (CMU) CS 11-747_, [[url]](http://www.phontron.com/class/nn4nlp2018/index.html).
+- **CS231n: Convolutional Neural Networks for Visual Recognition**, _Stanford University_, [[url]](http://cs231n.stanford.edu).
+- **CS224d: Deep Learning for Natural Language Processing**, _Stanford University_, [[url]](http://cs224d.stanford.edu/index.html).
+- **CS6101: Deep Learning for NLP**, _National University of Singapore_, [[url]](http://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/#s).
+- **CS224n: Natural Language Processing with Deep Learning**, _Stanford University_, [[url]](http://web.stanford.edu/class/cs224n/), [[YouTube]](https://www.youtube.com/playlist?list=PLqdrfNEc5QnuV9RwUAhoJcoQvu4Q46Lja), [[Chinese notes]](http://www.hankcs.com/tag/cs224n/).
+- **Unsupervised Feature Learning and Deep Learning (UFLDL) Tutorial**, _Stanford University_, [[url]](http://ufldl.stanford.edu/tutorial/), [[another url]](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial), [[Chinese]](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B).
+- **Theories of Deep Learning (STATS 385)**, _Stanford University_, [[url]](https://stats385.github.io/readings), [[YouTube]](https://www.youtube.com/playlist?list=PLL20C1i47eFCf9JNw1Ed1seBiIPltf5U0).
+- **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
+- **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
+- **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
+- **Derivatives Backpropagation and Vectorization**, [[lecture notes]](http://cs231n.stanford.edu/handouts/derivatives.pdf).
+- **Deep Learning**, [[book]](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf), [[Chinese version book]](https://github.com/exacity/deeplearningbook-chinese), [[homepage]](http://www.deeplearningbook.org).
 - **Speech and Language Processing**, [[webside]](https://web.stanford.edu/~jurafsky/slp3/).
 - **Sentic Computing**, [[book]](http://sentic.net/sentic-computing.pdf).
 - **Handbook of Knowledge Representation**, [[book]](https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf).
 - **Deep Learning for NLP without Magic**, [[slides]](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf).
 - **A Primer on Neural Network Models for Natural Language Processing**, [[book]](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
+
+## Reinforcement Learning
+- **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).
+- **MIT 6.S099: Artificial General Intelligence**, _Massachusetts Institute of Technology_, [[url]](https://agi.mit.edu).
+- **fast.ai: Making neural nets uncool again**, [[url]](http://www.fast.ai/), [[Ultimate guide to setting up a Google Cloud machine for fast.ai]](https://medium.com/@howkhang/ultimate-guide-to-setting-up-a-google-cloud-machine-for-fast-ai-version-2-f374208be43).
+- **Reinforcement Learning: An Introduction**, [[book]](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf).
 
 ## Coding Books for Machine Learning and Data Analysis
 - **TensorFlow Machine Learning Cookbook**, [[book]](https://github.com/arpitjindal97/technology_books/blob/master/Machine-Learning/TensorFlow-Machine-Learning-Cookbook.pdf), sources: [[nfmcclure/tensorflow_cookbook]](https://github.com/nfmcclure/tensorflow_cookbook).
@@ -44,7 +55,7 @@
 - **Machine Learning with Spark**, sources: [[PacktPublishing/Machine-Learning-with-Spark]](https://github.com/PacktPublishing/Machine-Learning-with-Spark), [[PacktPublishing/Machine-Learning-with-Spark-Second-Edition]](https://github.com/PacktPublishing/Machine-Learning-with-Spark-Second-Edition).
 - **Advanced Analytics with Spark**, sources: [[sryza/aas]](https://github.com/sryza/aas).
 
-## Coding Books
+## Coding
 - **Java 8 in Action**, [[book]](https://github.com/abhijit838/ebooks/blob/master/Java-8-in-Action-Lambdas-Streams-Raoul-Gabriel-Urma%28www-ebook-dl-com%29%28www.ebook-dl.com%29.pdf), [[Chinese version book]](https://github.com/songhuiqing/book/blob/master/Java%208实战.pdf), sources: [[java8/Java8InAction]](https://github.com/java8/Java8InAction).
 - **Java Cookbook 3rd Edition**, [[book]](https://repo.zenk-security.com/Programmation/Java_Cookbook.pdf).
 - **Coding Interview in Java**, [[book]](https://www.programcreek.com/wp-content/uploads/2012/11/coding-interview-6.pdf).
@@ -60,47 +71,15 @@
 - **简明Python教程**, [[Chinese version book]](http://www.old.cuhk.edu.cn/library/dw/tg/il/Python_shen.pdf).
 - **NLTK Essentials**, [[book]](https://github.com/shivamms/books/blob/master/nlp/NLTK%20Essentials.pdf).
 - **Writing Idiomatic Python**, [[book]](http://downloads.niceware.com/TECH-pdf/PythonStyle-Writing_idiomatic_python_3.pdf).
-
-## Tutorials
-- **Deep Learning Tutorial**, _李宏毅 (Hung-yi Lee)_, [[slides]](http://speech.ee.ntu.edu.tw/~tlkagk/slide/Deep%20Learning%20Tutorial%20Complete%20(v3)), [[Hung-yi Lee homepage]](http://speech.ee.ntu.edu.tw/~tlkagk/index.html).
-- **Deep Learning Tutorial**, _LISA lab, University of Montreal_, [[docs]](http://deeplearning.net/tutorial/deeplearning.pdf).
-- **On the Origin of Deep Learning**, [[paper]](https://arxiv.org/pdf/1702.07800.pdf).
-- **Multiple Kernel Learning Algorithms**, [[paper]](http://jmlr.csail.mit.edu/papers/volume12/gonen11a/gonen11a.pdf).
-- **Derivatives Backpropagation and Vectorization**, [[lecture notes]](http://cs231n.stanford.edu/handouts/derivatives.pdf).
+- **数据结构与算法-Python语言描述(裘宗燕)**, [[Chinese version book]](https://github.com/zjutjsj1004/python/blob/master/book/数据结构与算法%20Python语言描述_s13946445-裘宗燕.pdf).
 - **Learn Enough Git to Be Dangerous**, [[homepage]](https://www.learnenough.com/git-tutorial).
 - **Algorithms Tutorialhorizon**, [[homepage]](https://algorithms.tutorialhorizon.com).
 - **Git教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000).
 - **JavaScript教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000).
 - **Python教程 (廖雪峰)**, [[homepage]](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000).
 - **编程之法：面试和算法心得**, [[julycoding/The-Art-Of-Programming-By-July]](https://github.com/julycoding/The-Art-Of-Programming-By-July).
-
-## Useful GitHub Resource Collections
-- [[andrewt3000/DL4NLP]](https://github.com/andrewt3000/DL4NLP).
-- [[kjw0612/awesome-rnn]](https://github.com/kjw0612/awesome-rnn).
-- [[keon/awesome-nlp]](https://github.com/keon/awesome-nlp).
-- [[snakeztc/NeuralDialogPapers]](https://github.com/snakeztc/NeuralDialogPapers).
-- [[kristjankorjus/applied-deep-learning-resources]](https://github.com/kristjankorjus/applied-deep-learning-resources), _mainly focusing on CNNs_.
-- [[aymericdamien/TensorFlow-Examples]](https://github.com/aymericdamien/TensorFlow-Examples).
-- [[Kyubyong/nlp_tasks]](https://github.com/Kyubyong/nlp_tasks).
-- [[brightmart/text_classification]](https://github.com/brightmart/text_classification).
-- [[panyang/TextProcessing]](https://github.com/panyang/TextProcessing).
-- [[ppwwyyxx/tensorpack]](https://github.com/ppwwyyxx/tensorpack), _A Neural Net Training Interface on TensorFlow_.
-- [[ty4z2008/Qix]](https://github.com/ty4z2008/Qix), _Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang_.
-- [[jobbole/awesome-machine-learning-cn]](https://github.com/jobbole/awesome-machine-learning-cn), _机器学习资源大全中文版，包括机器学习领域的框架、库以及软件_.
-- [[ictar/python-doc]](https://github.com/ictar/python-doc), _translate python documents to Chinese for convenient reference_.
-- [[hankcs/HanLP]](https://github.com/hankcs/HanLP), [[hankcs/pyhanlp]](https://github.com/hankcs/pyhanlp), _自然语言处理 中文分词 词性标注 命名实体识别 依存句法分析 关键词提取 新词发现 短语提取 自动摘要 文本分类 拼音简繁_.
-- [[julycoding/BAT-ML-1000]](https://github.com/julycoding/BAT-ML-1000), _BAT机器学习面试1000题系列_.
-- [[justdark/dml]](https://github.com/justdark/dml), _D's Machine Learning is a machine learning toolkit for python,focus on rightness but efficiency_.
-- [[dkozlov/awesome-knowledge-distillation]](https://github.com/dkozlov/awesome-knowledge-distillation), _Knowledge Distillation Resources_.
-- [[eriklindernoren/PyTorch-GAN]](https://github.com/eriklindernoren/PyTorch-GAN), _PyTorch implementations of Generative Adversarial Networks_.
-- [[hwalsuklee/tensorflow-generative-model-collections]](https://github.com/hwalsuklee/tensorflow-generative-model-collections), _Collection of generative models in Tensorflow_.
-- [[karthikncode/nlp-datasets]](https://github.com/karthikncode/nlp-datasets), _A list of datasets/corpora for NLP tasks, in reverse chronological order_.
-- [[awesomedata/awesome-public-datasets]](https://github.com/awesomedata/awesome-public-datasets), _A topic-centric list of HQ open datasets in public domains_.
-- [[RedditSota/state-of-the-art-result-for-machine-learning-problems]](https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-problems).
-- [[Psyche-mia/Awesome-GANs]](https://github.com/Psyche-mia/Awesome-GANs), _Awesome Generative Adversarial Networks with tensorflow_.
-- [[hollobit/All-About-the-GAN]](https://github.com/hollobit/All-About-the-GAN), _All About the GANs(Generative Adversarial Networks) - Summarized lists for GAN_.
-- [[jason718/awesome-self-supervised-learning]](https://github.com/jason718/awesome-self-supervised-learning), _A curated list of awesome Self-Supervised methods_.
-- [[fendouai/Awesome-Chatbot]](https://github.com/fendouai/Awesome-Chatbot), _Awesome Chatbot Projects, Corpus, Papers, Tutorials_.
+- **BAT机器学习面试1000题系列**, [[url]](https://github.com/julycoding/BAT-ML-1000).
+- **Translate python documents to Chinese for convenient reference** [[url]](https://github.com/ictar/python-doc).
 
 ## Others
 - **LaTex Introduction**, [[book]](/Documents/LaTex%20Intro.pdf).
