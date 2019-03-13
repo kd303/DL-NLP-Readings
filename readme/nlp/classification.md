@@ -16,6 +16,7 @@
 - [2018 ArXiv] **Densely Connected Bidirectional LSTM with Applications to Sentence Classification**, [[paper]](https://arxiv.org/pdf/1802.00889.pdf), [[bibtex]](/Bibtex/Densely%20Connected%20Bidirectional%20LSTM%20with%20Applications%20to%20Sentence%20Classification.bib), source: [[IsaacChanghau/Dense_BiLSTM]](https://github.com/IsaacChanghau/Dense_BiLSTM).
 - [2018 NAACL] **Multinomial Adversarial Networks for Multi-Domain Text Classification**, [[paper]](http://aclweb.org/anthology/N18-1111), [[bibtex]](/Bibtex/Multinomial%20Adversarial%20Networks%20for%20Multi-Domain%20Text%20Classification.bib) sources: [[ccsasuke/man]](https://github.com/ccsasuke/man).
 - [2018 EMNLP] **Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts**, [[paper]](http://aclweb.org/anthology/D18-1349), [[bibtex]](/Bibtex/Hierarchical%20Neural%20Networks%20for%20Sequential%20Sentence%20Classification%20in%20Medical%20Scientific%20Abstracts.bib).
+- [2019 AAAI] **Graph Convolutional Networks for Text Classification**, [[paper]](https://arxiv.org/pdf/1809.05679.pdf), [[bibtex]](/Bibtex/Graph%20Convolutional%20Networks%20for%20Text%20Classification.bib), sources: [[yao8839836/text_gcn]](https://github.com/yao8839836/text_gcn).
 
 ## Sentiment Analysis
 - **Introduction to Sentiment Analysis**, [[slides]](https://lct-master.org/files/MullenSentimentCourseSlides.pdf), [[blog]](https://blog.algorithmia.com/introduction-sentiment-analysis-algorithms/).

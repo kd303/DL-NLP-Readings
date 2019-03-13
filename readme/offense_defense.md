@@ -6,6 +6,7 @@
 
 ### Natural Language Processing
 - [2018 SPW] **Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers**, [[paper]](https://arxiv.org/pdf/1801.04354.pdf), [[bibtex]](/Bibtex/Black-box%20Generation%20of%20Adversarial%20Text%20Sequences%20to%20Evade%20Deep%20Learning%20Classifiers.bib), sources: [[QData/deepWordBug]](https://github.com/QData/deepWordBug).
+- [2019 NDSS] **TextBugger: Generating Adversarial Text Against Real-world Applications**, [[paper]](https://arxiv.org/pdf/1812.05271.pdf), [[bibtex]](/Bibtex/TextBugger%20-%20Generating%20Adversarial%20Text%20Against%20Real-world%20Applications.bib).
 
 # Defense
 ### Computer Vision

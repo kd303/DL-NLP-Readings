@@ -1,6 +1,6 @@
 # Graph and Social Network Representation
 
-> Including **Graph Representation**, **Social Network Representation** and etc.
+> Including **Graph Representation**, **Social Network Representation**, **Graph Convolutional Network** and etc.
 
 - [2014 KDD] **DeepWalk: Online Learning of Social Representations**, [[paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf), sources: [[phanein/deepwalk]](https://github.com/phanein/deepwalk).
 - [2016 ICML] **Learning Convolutional Neural Networks for Graphs**, [[paper]](https://arxiv.org/abs/1605.05273.pdf).
