@@ -1,11 +1,22 @@
 # Offense and Denfense
 
+## General
+- [2017 ICML] **Detecting Adversarial Samples from Artifacts**, [[paper]](https://arxiv.org/pdf/1703.00410.pdf), [[bibtex]](/Bibtex/Detecting%20Adversarial%20Samples%20from%20Artifacts.bib), sources: [[rfeinman/detecting-adversarial-samples]](https://github.com/rfeinman/detecting-adversarial-samples).
+- [2018 ICLR] **Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality**, [[paper]](https://openreview.net/pdf?id=B1gJ1L2aW), [[bibtex]](/Bibtex/Characterizing%20Adversarial%20Subspaces%20Using%20Local%20Intrinsic%20Dimensionality.bib), sources: [[xingjunm/lid_adversarial_subspace_detection]](https://github.com/xingjunm/lid_adversarial_subspace_detection).
+
 ## Offense
 ### Computer Vision
+- [2016 CVPR] **DeepFool: A Simple and Accurate Method to Fool Deep Neural Networks**, [[paper]](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Moosavi-Dezfooli_DeepFool_A_Simple_CVPR_2016_paper.pdf), [[bibtex]](/Bibtex/DeepFool%20-%20a%20simple%20and%20accurate%20method%20to%20fool%20deep%20neural%20networks.bib), sources: [[LTS4/DeepFool]](https://github.com/lts4/deepfool).
+- [2017 ICLR] **Delving into Transferable Adversarial Examples and Black-Box Attacks**, [[paper]](https://openreview.net/pdf?id=Sys6GJqxl), [[bibtex]](/Bibtex/Delving%20into%20Transferable%20Adversarial%20Examples%20and%20Black-Box%20Attacks.bib), sources: [[sunblaze-ucb/transferability-advdnn-pub]](https://github.com/sunblaze-ucb/transferability-advdnn-pub), [[YuguangTong/transferability-advdnn-pub]](https://github.com/YuguangTong/transferability-advdnn-pub).
 - [2018 AAAI] **EAD: Elastic-Net Attacks to Deep Neural Networks via Adversarial Examples**, [[paper]](https://arxiv.org/pdf/1709.04114.pdf), [[bibtex]](/Bibtex/Elastic-Net%20Attacks%20to%20Deep%20Neural%20Networks%20via%20Adversarial%20Examples.bib), sources: [[IBM/EAD-Attack]](https://github.com/IBM/EAD-Attack), [[ysharma1126/EAD_Attack]](https://github.com/ysharma1126/EAD_Attack).
+- [2018 ICLR] **Attacking Binarized Neural Networks**, [[paper]](https://openreview.net/pdf?id=HkTEFfZRb), [[bibtex]](/Bibtex/Attacking%20Binarized%20Neural%20Networks.bib), sources: [[AngusG/cleverhans-attacking-bnns]](https://github.com/AngusG/cleverhans-attacking-bnns).
+- [2018 ICLR] **Towards Deep Learning Models Resistant to Adversarial Attacks**, [[paper]](https://openreview.net/pdf?id=rJzIBfZAb), [[bibtex]](/Bibtex/Towards%20Deep%20Learning%20Models%20Resistant%20to%20Adversarial%20Attacks.bib).
 
 ### Natural Language Processing
 - [2018 SPW] **Black-box Generation of Adversarial Text Sequences to Evade Deep Learning Classifiers**, [[paper]](https://arxiv.org/pdf/1801.04354.pdf), [[bibtex]](/Bibtex/Black-box%20Generation%20of%20Adversarial%20Text%20Sequences%20to%20Evade%20Deep%20Learning%20Classifiers.bib), sources: [[QData/deepWordBug]](https://github.com/QData/deepWordBug).
+- [2018 EMNLP] **Generating Natural Language Adversarial Examples**, [[paper]](http://aclweb.org/anthology/D18-1316), [[bibtex]](/Bibtex/Generating%20Natural%20Language%20Adversarial%20Examples.bib), sources: [[nesl/nlp_adversarial_examples]](https://github.com/nesl/nlp_adversarial_examples).
+- [2018 ACL] **HotFlip: White-Box Adversarial Examples for Text Classification**, [[paper]](http://aclweb.org/anthology/P18-2006), [[poster]](http://anthology.aclweb.org/attachments/P/P18/P18-2006.Poster.pdf), [[bibtex]](/Bibtex/HotFlip%20-%20White-Box%20Adversarial%20Examples%20for%20Text%20Classification.bib), sources: [[alicia-tsai/adversarial-sentiment-classification]](https://github.com/alicia-tsai/adversarial-sentiment-classification).
+- [2018 ICLR] **_(Rejected)_** **Adversarial Examples for Natural Language Classification Problems**, [[paper]](https://openreview.net/pdf?id=r1QZ3zbAZ), [[bibtex]](/Bibtex/Adversarial%20Examples%20for%20Natural%20Language%20Classification%20Problems.bib).
 - [2019 NDSS] **TextBugger: Generating Adversarial Text Against Real-world Applications**, [[paper]](https://arxiv.org/pdf/1812.05271.pdf), [[bibtex]](/Bibtex/TextBugger%20-%20Generating%20Adversarial%20Text%20Against%20Real-world%20Applications.bib).
 
 # Defense

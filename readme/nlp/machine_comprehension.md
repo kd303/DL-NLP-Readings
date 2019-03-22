@@ -1,5 +1,9 @@
 # Machine Comprehension and Question Answering
 
+## Theses
+- [2018 Stanford University] **Neural Reading Comprehension and Beyond**, [[thesis]](https://cs.stanford.edu/~danqi/papers/thesis.pdf), [[copy]](/Documents/Theses/Neural%20Reading%20Comprehension%20and%20Beyond.pdf), [[bibtex]](/Bibtex/Neural%20Reading%20Comprehension%20and%20Beyond.bib), author: [[Danqi Chen]](https://cs.stanford.edu/~danqi/).
+
+## Papers
 - [2014 NIPS] **Deep Learning for Answer Sentence Selection**, [[paper]](https://arxiv.org/pdf/1412.1632.pdf), sources: [[brmson/Sentence-selection]](https://github.com/brmson/Sentence-selection).
 - [2014 ACL] **Freebase QA: Information Extraction or Semantic Parsing?**, [[paper]](http://aclweb.org/anthology/W14-2416).
 - [2015 IJCAI] **Convolutional Neural Tensor Network Architecture for Community-based Question Answering**, [[paper]](https://www.ijcai.org/Proceedings/15/Papers/188.pdf), [[bibtex]](/Bibtex/Convolutional%20Neural%20Tensor%20Network%20Architecture%20for%20Community-based%20Question%20Answering.bib), sources: [[GauravBh1010tt/DeepLearn]](https://github.com/GauravBh1010tt/DeepLearn/tree/master/convolution%20neural%20tensor%20network), [[SongRb/Seq2SeqLearning]](https://github.com/SongRb/Seq2SeqLearning).

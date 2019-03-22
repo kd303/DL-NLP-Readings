@@ -1,5 +1,6 @@
-# Machine Translation
+# Machine Translation and Language Style Transfer
 
+## Machine Translation
 - [2014 SSST] **On the properties of neural machine Translation Encoder-Decoder Approaches**, [[paper]](https://arxiv.org/pdf/1409.1259.pdf).
 - [2015 ICLR] **Neural Machine Translation by Jointly Learning to Align and Translate**, [[paper]](https://arxiv.org/pdf/1409.0473.pdf), sources: [[lisa-groundhog/GroundHog]](https://github.com/lisa-groundhog/GroundHog/tree/master/experiments/nmt), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
 - [2015 EMNLP] **Effective Approaches to Attention-based Neural Machine Translation**, [[paper]](http://aclweb.org/anthology/D15-1166), [[HarvardNLP homepage]](http://nlp.seas.harvard.edu/code/), sources: [[dillonalaird/Attention]](https://github.com/dillonalaird/Attention), [[tensorflow/nmt]](https://github.com/tensorflow/nmt).
@@ -12,3 +13,7 @@
 - [2018 AMTA] **Context Models for OOV Word Translation in Low-Resource Language**, [[paper]](https://arxiv.org/pdf/1801.08660.pdf).
 - [2018 NAACL] **Self-Attention with Relative Position Representations**, [[paper]](https://arxiv.org/pdf/1803.02155.pdf).
 - [2018 COLING] **Double Path Networks for Sequence to Sequence Learning**, [[paper]](https://arxiv.org/pdf/1806.04856.pdf).
+
+## Language Style Transfer
+- [2018 ArXiv] **Style Transfer as Unsupervised Machine Translation**, [[paper]](https://arxiv.org/pdf/1808.07894.pdf), [[bibtex]](/Bibtex/Style%20Transfer%20as%20Unsupervised%20Machine%20Translation.bib), [[homepage]](https://zrustc.github.io).
+- [2019 ICLR] **Multiple-Attribute Text Rewriting**, [[paper]](https://openreview.net/pdf?id=H1g2NhC5KQ), [[bibtex]](/Bibtex/Multiple-Attribute%20Text%20Rewriting.bib).

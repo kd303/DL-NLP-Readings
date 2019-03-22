@@ -1,0 +1,4 @@
+# Medical Field Research Works
+
+- [2017 CVPR] **ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases**, [[paper]](https://arxiv.org/pdf/1705.02315.pdf), [[bibtex]](/Bibtex/ChestX-ray8.bib), [[dataset (ChestX-ray14)]](https://nihcc.app.box.com/v/ChestXray-NIHCC).
+- [2018 CVPR] **TieNet: Text-Image Embedding Network for Common Thorax Disease Classification and Reporting in Chest X-rays**, [[paper]](https://arxiv.org/pdf/1801.04334.pdf), [[bibtex]](/Bibtex/TieNet%20-%20Text-Image%20Embedding%20Network%20for%20Common%20Thorax%20Disease%20Classification%20and%20Reporting%20in%20Chest%20X-rays.bib), [[Xiaosong Wang's Homepage]](https://xiaosongwang.github.io).
