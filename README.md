@@ -13,7 +13,7 @@
     7. [Knowledge Base Completion and Representation](/readme/nlp/kb_completion.md)
     8. [Sentiment Analysis and Text Classification](/readme/nlp/classification.md)
     9. [Char/Word Embeddings and Language Modeling Systems](/readme/nlp/emb_lm.md)
-    10. [Sentence Representation, Natural Language Inference and Summarization](/readme/nlp/sent_emb_nli.md)
+    10. [Sentence Representation, Natural Language Inference and Text Summarization](/readme/nlp/sent_emb_nli.md)
     11. [Interpretability, Disambiguation, Anaphora and Discourse](/readme/nlp/interpretability.md)
     12. [Multi-tasks Learning](/readme/nlp/multi_task.md)
     13. [Other NLP Research Works](/readme/nlp/others.md)
