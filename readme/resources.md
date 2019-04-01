@@ -82,5 +82,5 @@
 - **Translate python documents to Chinese for convenient reference** [[url]](https://github.com/ictar/python-doc).
 
 ## Others
-- **LaTex Introduction**, [[book]](/Documents/LaTex%20Intro.pdf).
+- **LaTex Introduction**, [[book (cn)]](/Documents/LaTex%20Intro.pdf), [[book (en)]](/Documents/LaTex%20Intro%20EN.pdf).
 - **Font Awesome**, [[book]](/Documents/FontAwesome.pdf).
