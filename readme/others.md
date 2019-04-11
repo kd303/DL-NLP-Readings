@@ -1,4 +1,4 @@
-# Unassorted Research Works
+# Other Research Works
 
 ## Network/Dataset Distillation
 - [2014 NeurIPS] **Distilling the Knowledge in a Neural Network**, [[paper]](https://arxiv.org/pdf/1503.02531.pdf), [[bibtex]](/Bibtex/Distilling%20the%20Knowledge%20in%20a%20Neural%20Network.bib), sources: [[peterliht/knowledge-distillation-pytorch]](https://github.com/peterliht/knowledge-distillation-pytorch), [[a7b23/Distilling-the-knowledge-in-neural-network]](https://github.com/a7b23/Distilling-the-knowledge-in-neural-network), [[chengshengchan/model_compression]](https://github.com/chengshengchan/model_compression).
@@ -6,7 +6,12 @@
 - [2018 ArXiv] **Dataset Distillation**, [[paper]](https://arxiv.org/pdf/1811.10959.pdf), [[bibtex]](/Bibtex/Dataset%20Distillation.bib), [[homepage]](https://ssnl.github.io/dataset_distillation/), sources: [[SsnL/dataset-distillation]](https://github.com/SsnL/dataset-distillation).
 
 ## Data Imputation
+- [2017 ICML] **Compressed Sensing using Generative Models**, [[paper]](https://pdfs.semanticscholar.org/48a7/48193b1b30eb1191372275411a2c2fcbe5b4.pdf), [[supplementary]](http://proceedings.mlr.press/v70/bora17a/bora17a-supp.pdf), [[bibtex]](/Bibtex/Compressed%20Sensing%20using%20Generative%20Models.bib), sources: [[AshishBora/csgm]](https://github.com/AshishBora/csgm).
+- [2018 AAAI] **Task-Aware Compressed Sensing with Generative Adversarial Networks**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16737/15943), [[bibtex]](/Bibtex/Task-Aware%20Compressed%20Sensing%20with%20Generative%20Adversarial%20Networks.bib), [[homepage]](http://proceedings.mlr.press/v70/bora17a.html), sources: [[po0ya/csgan]](https://github.com/po0ya/csgan).
+- [2018 ICLR] **AmbientGAN: Generative models from lossy measurements**, [[paper]](https://openreview.net/pdf?id=Hy7fDog0b), [[bibtex]](/Bibtex/AmbientGAN.bib), sources: [[AshishBora/ambient-gan]](https://github.com/AshishBora/ambient-gan).
 - [2018 ICML] **GAIN: Missing Data Imputation using Generative Adversarial Nets**, [[paper]](https://arxiv.org/pdf/1806.02920.pdf), [[bibtex]](/Bibtex/GAIN%20-%20Missing%20Data%20Imputation%20using%20Generative%20Adversarial%20Nets.bib), sources: [[jsyoon0823/GAIN]](https://github.com/jsyoon0823/GAIN).
+- [2018 NIPS] **Multivariate Time Series Imputation with Generative Adversarial Networks**, [[paper]](https://papers.nips.cc/paper/7432-multivariate-time-series-imputation-with-generative-adversarial-networks.pdf), [[bibtex]](/Bibtex/Multivariate%20Time%20Series%20Imputation%20with%20Generative%20Adversarial%20Networks.bib), [[homepge]](https://papers.nips.cc/paper/7432-multivariate-time-series-imputation-with-generative-adversarial-networks), sources: [[Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks]](https://github.com/Luoyonghong/Multivariate-Time-Series-Imputation-with-Generative-Adversarial-Networks).
+- [2019 ICLR] **MisGAN: Learning from Incomplete Data with Generative Adversarial Networks**, [[paper]](https://openreview.net/pdf?id=S1lDV3RcKm), [[bibtex]](/Bibtex/MisGAN.bib), sources: [[steveli/misgan]](https://github.com/steveli/misgan).
 
 ## Error Correcting Output Code (ECOC)
 - [2016 ArXiv] **N-ary Error Correcting Coding Scheme**, [[paper]](https://arxiv.org/pdf/1603.05850.pdf), [[bibtex]](/Bibtex/N-ary%20Error%20Correcting%20Coding%20Scheme.bib).
