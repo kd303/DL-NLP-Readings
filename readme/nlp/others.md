@@ -6,7 +6,7 @@
 - [2017 ESEC/FSE] **Are Deep Neural Networks the Best Choice for Modeling Source Code?**, [[paper]](http://web.cs.ucdavis.edu/~devanbu/isDLgood.pdf), [[bibtex]](/Bibtex/Are%20Deep%20Neural%20Networks%20the%20Best%20Choice%20for%20Modeling%20Source%20Code.bib).
 - [2018 EMNLP] **Mapping Language to Code in Programmatic Context**, [[paper]](https://aclweb.org/anthology/D18-1192), [[bibtex]](/Bibtex/Mapping%20Language%20to%20Code%20in%20Programmatic%20Context.bib), sources: [[sriniiyer/concode]](https://github.com/sriniiyer/concode).
 - [2019 ArXiv] **Maybe Deep Neural Networks are the Best Choice for Modeling Source Code**, [[paper]](https://arxiv.org/pdf/1903.05734.pdf), [[bibtex]](/Bibtex/Maybe%20Deep%20Neural%20Networks%20are%20the%20Best%20Choice%20for%20Modeling%20Source%20Code.bib), sources: [[mast-group/OpenVocabCodeNLM]](https://github.com/mast-group/OpenVocabCodeNLM).
-- [2019 ICLR] ***Rejected*** **Neural Networks for Modeling Source Code Edits**, [[paper]](https://arxiv.org/pdf/1904.02818.pdf), [[bibtex]](/Bibtex/Neural%20Networks%20for%20Modeling%20Source%20Code%20Edits.bib).
+- [2019 ICLR] ***Rejected***, **Neural Networks for Modeling Source Code Edits**, [[paper]](https://arxiv.org/pdf/1904.02818.pdf), [[bibtex]](/Bibtex/Neural%20Networks%20for%20Modeling%20Source%20Code%20Edits.bib).
 
 ## Natural Language Survey
 - [2018 JAIR] **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**, [[paper]](https://arxiv.org/pdf/1703.09902.pdf).
