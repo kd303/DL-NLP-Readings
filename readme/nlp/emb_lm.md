@@ -24,6 +24,7 @@
 - [2017 AAAI] **Improving Word Embeddings with Convolutional Feature Learning and Subword Information**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14724/14187), sources: [[ShelsonCao/IWE]](https://github.com/ShelsonCao/IWE).
 - [2018 ICML] **Learning K-way D-dimensional Discrete Codes for Compact Embedding Representations**, [[paper]](https://arxiv.org/pdf/1806.09464.pdf), [supplementary](http://web.cs.ucla.edu/~yzsun/papers/2018_icml_KDCoding_supp.pdf), sources: [[chentingpc/kdcode-lm]](https://github.com/chentingpc/kdcode-lm).
 - [2018 ICLR] **Compressing Word Embeddings via Deep Compositional Code Learning**, [[paper]](https://openreview.net/pdf?id=BJRZzFlRb), [[bibtex]](/Bibtex/Compressing%20Word%20Embeddings%20via%20Deep%20Compositional%20Code%20Learning.bib), sources: [[msobroza/compositional_code_learning]](https://github.com/msobroza/compositional_code_learning).
+- [2018 ACL] **Baseline Needs More Love - On Simple Word-Embedding-Based Models and Associated Pooling Mechanisms**, [[paper]](https://www.aclweb.org/anthology/P18-1041), [[bibtex]](/Bibtex/Baseline%20Needs%20More%20Love.bib), sources: [[dinghanshen/SWEM]](https://github.com/dinghanshen/SWEM).
 
 ## Language Modeling Systems (Baseline Systems)
 - [2017 NIPS] **Learned in Translation: Contextualized Word Vectors**, [[paper]](https://arxiv.org/pdf/1708.00107.pdf), sources: [[salesforce/cove]](https://github.com/salesforce/cove).
