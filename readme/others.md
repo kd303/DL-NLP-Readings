@@ -23,6 +23,7 @@
 - [2018 ICDM] **Self-Attentive Sequential Recommendation**, [[paper]](https://arxiv.org/pdf/1808.09781.pdf), [[bibtex]](/Bibtex/Self-Attentive%20Sequential%20Recommendation.bib), sources: [[kang205/SASRec]](https://github.com/kang205/SASRec).
 
 ## Learning on Noisy/Corrupted Labels
+- [2018 ICML] **MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels**, [[paper]](http://proceedings.mlr.press/v80/jiang18c/jiang18c.pdf), [[supplementory]](http://proceedings.mlr.press/v80/jiang18c/jiang18c-supp.pdf), [[bibtex]](/Bibtex/MentorNet.bib), sources: [[google/mentornet]](https://github.com/google/mentornet).
 - [2018 NeurIPS] **Co-teaching: Robust Training of Deep Neural Networks with Extremely Noisy Labels**, [[paper]](https://papers.nips.cc/paper/8072-co-teaching-robust-training-of-deep-neural-networks-with-extremely-noisy-labels.pdf), [[bibtex]](/Bibtex/Co-teaching.bib), sources: [[bhanML/Co-teaching]](https://github.com/bhanML/Co-teaching).
 - [2018 NeurIPS] **Masking: A New Perspective of Noisy Supervision**, [[paper]](https://papers.nips.cc/paper/7825-masking-a-new-perspective-of-noisy-supervision.pdf), [[bibtex]](/Bibtex/Masking%20-%20A%20New%20Perspective%20of%20Noisy%20Supervision.bib), sources: [[bhanML/Masking]](https://github.com/bhanML/Masking).
 
