@@ -34,6 +34,7 @@
 - **Handbook of Knowledge Representation**, [[book]](https://dai.fmph.uniba.sk/~sefranek/kri/handbook/handbook_of_kr.pdf).
 - **Deep Learning for NLP without Magic**, [[slides]](https://nlp.stanford.edu/courses/NAACL2013/NAACL2013-Socher-Manning-DeepLearning.pdf).
 - **A Primer on Neural Network Models for Natural Language Processing**, [[book]](https://u.cs.biu.ac.il/~yogo/nnlp.pdf).
+- **GANs in Action**, [[online book]](https://www.manning.com/books/gans-in-action), sources: [[GANs-in-Action/gans-in-action]](https://github.com/GANs-in-Action/gans-in-action).
 
 ## Reinforcement Learning
 - **University College London (UCL) Course on Reinforcement Learning (RL)**, [[url]](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html).

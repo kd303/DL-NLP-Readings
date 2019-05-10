@@ -27,5 +27,6 @@
 9. [Medical Field Research Works](/readme/medical.md)
 10. [Robotic Systems](/readme/robotics.md)
 11. [Extreme Learn Machines](/readme/extreme_learning.md)
-12. [Mathematics, Machine Learning, Deep Learning, Reinforcement Learning and Coding Resources](/readme/resources.md)
-13. [Useful GitHub Reading List](/readme/reading_list.md)
+12. [Probabilistic Programming Languages](/readme/ppl.md)
+13. [Mathematics, Machine Learning, Deep Learning, Reinforcement Learning and Coding Resources](/readme/resources.md)
+14. [Useful GitHub Reading List](/readme/reading_list.md)
