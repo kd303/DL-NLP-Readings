@@ -21,7 +21,7 @@
 3. [Graph and Social Network Representation](/readme/graphs.md)
 4. [Offense and Defense](/readme/offense_defense.md)
 5. [Zero/Few-shot Learning and Meta Learning](/readme/few_shot_meta.md)
-6. [Network Distillation and Data Imputation](/readme/distill_imputation.md)
+6. [Knowledge Distillation and Data Imputation](/readme/distill_imputation.md)
 7. [Label Noise and Anomaly Detection](/readme/label_noise_anomaly.md)
 8. [Other Network Structures (NTM, Capsule, Autoencoder, Memory Nets, Highway Nets and etc.)](/readme/network_structure.md)
 9. [Neural Network Optimization](/readme/optimize.md)
