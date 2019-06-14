@@ -4,10 +4,17 @@
 
 ## Tutorial and Explanation
 - **How to understand Graph Convolutional Networks (GCN)**, [[zhihu blog]](https://www.zhihu.com/question/54504471).
+- **Graph Convolutional Networks (GCN) guide for beginner**, [[zhihu blog]](https://zhuanlan.zhihu.com/p/54505069).
+- **Explained Graph Convolutional Networks (GCN)**, [[zhihu blog]](https://zhuanlan.zhihu.com/p/67522582).
+- **Spectral Clustering Summary**, [[blog]](https://www.cnblogs.com/pinard/p/6221564.html).
 - **Convolutional Neural Networks on Graphs**, [[NTU slides]](http://www.ntu.edu.sg/home/xbresson/pdf/talk_xbresson_gcnn.pdf).
 
 ## Survey
-- [2018 ArXiv] **Relational inductive biases, deep learning, and graph networks**, [[paper]](https://arxiv.org/pdf/1806.01261.pdf), [[bibtex]](/Bibtex/Relational%20inductive%20biases%20deep%20learning%20and%20graph%20networks.bib).
+- [2018 ArXiv] **Deep Learning on Graphs: A Survey**, [[paper]](https://arxiv.org/pdf/1812.04202.pdf), [[bibtex]](/Bibtex/Deep%20Learning%20on%20Graphs%20-%20A%20Survey.bib), [[blog]](http://deeplearningresource.com/category/图神经网络/).
+- [2019 ArXiv] **Graph Neural Networks: A Review of Methods and Applications**, [[paper]](https://arxiv.org/pdf/1812.08434.pdf), [[bibtex]](/Bibtex/Graph%20Neural%20Networks%20-%20A%20Review%20of%20Methods%20and%20Applications.bib), [[blog1]](https://daiwk.github.io/posts/dl-gnn.html), [[zhihu]](https://zhuanlan.zhihu.com/p/53476124), [[blog2]](https://mp.weixin.qq.com/s?__biz=MzIwMTc4ODE0Mw==&mid=2247493906&idx=1&sn=15c9f18a1ce6baa15dc85ecb52e799f6&chksm=96ea3692a19dbf847c1711e6e194ad60d80d11138daf0938f90489a054d77cfd523bee2dc1d2&mpshare=1&scene=1&srcid=1226x1tdeDKTzwcuszAuh1O0&pass_ticket=SzwEuJ2YzNx6f6qRO8kkEzvCJzmwLfJnp2tSTApgym2Eec7lBnwb3SzGw6NeSiqz#rd), [[blog3]](https://www.jiqizhixin.com/articles/2018-12-27-11), sources: [[thunlp/GNNPapers]](https://github.com/thunlp/GNNPapers).
+
+## General Framework
+- [2018 ArXiv] **Relational inductive biases, deep learning, and graph networks**, [[paper]](https://arxiv.org/pdf/1806.01261.pdf), [[bibtex]](/Bibtex/Relational%20inductive%20biases%20deep%20learning%20and%20graph%20networks.bib), sources: [[deepmind/graph_nets]](https://github.com/deepmind/graph_nets).
 
 ## Graph Embedding
 - [2014 KDD] **DeepWalk: Online Learning of Social Representations**, [[paper]](http://www.perozzi.net/publications/14_kdd_deepwalk.pdf), [[bibtex]](/Bibtex/DeepWalk%20-%20Online%20Learning%20of%20Social%20Representations.bib), [[blog]](https://zhuanlan.zhihu.com/p/56380812), sources: [[phanein/deepwalk]](https://github.com/phanein/deepwalk).
