@@ -11,6 +11,8 @@
 - [2017 ICCV] **TALL: Temporal Activity Localization via Language Query**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Gao_TALL_Temporal_Activity_ICCV_2017_paper.pdf), [[bibtex]](/Bibtex/TALL%20-%20Temporal%20Activity%20Localization%20via%20Language%20Query.bib), sources: [[jiyanggao/TALL]](https://github.com/jiyanggao/TALL).
 - [2018 EMNLP] **Localizing Moments in Video with Temporal Language**, [[paper]](https://aclweb.org/anthology/D18-1168), [[bibtex]](/Bibtex/Localizing%20Moments%20in%20Video%20with%20Temporal%20Language.bib), sources: [[LisaAnne/TemporalLanguageRelease]](https://github.com/LisaAnne/TemporalLanguageRelease).
 - [2018 ArXiv] **Attentive Sequence to Sequence Translation for Localizing Clips of Interest by Natural Language Descriptions**, [[paper]](https://arxiv.org/pdf/1808.08803.pdf), [[bibtex]](/Bibtex/Attentive%20Sequence%20to%20Sequence%20Translation%20for%20Localizing%20Clips%20of%20Interest%20by%20Natural%20Language%20Descriptions.bib), sources: [[NeonKrypton/ASST]](https://github.com/NeonKrypton/ASST).
+- [2019 NAACL] **ExCL: Extractive Clip Localization Using Natural Language Descriptions**, [[paper]](https://www.aclweb.org/anthology/N19-1198), [[bibtex]](/Bibtex/ExCL%20-%20Extractive%20Clip%20Localization%20Using%20Natural%20Language%20Descriptions.bib).
+- [2019 AAAI] **Localizing Natural Language in Videos**, [[paper]](http://forestlinma.com/welcome_files/Jingyuan_Chen_Localizing_Natural_Language_In_Videos_AAAI_2019.pdf), [[bibtex]](/Bibtex/Localizing%20Natural%20Language%20in%20Videos.bib).
 
 
 ## Image Processing
