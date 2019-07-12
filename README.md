@@ -17,7 +17,7 @@
     11. [Interpretability, Disambiguation, Anaphora and Discourse](/readme/nlp/interpretability.md)
     12. [Multi-tasks Learning](/readme/nlp/multi_task.md)
     13. [Other NLP Research Works](/readme/nlp/others.md)
-2. [Computer Vision (Classification, Detection, Recognition, Captioning, GAN and etc.)](/readme/cv.md)
+2. [Computer Vision (Classification, Detection, Recognition, Captioning and etc.)](/readme/cv.md)
 3. [Graph and Social Network Representation](/readme/graphs.md)
 4. [Offense and Defense](/readme/offense_defense.md)
 5. [Zero/Few-shot Learning and Meta Learning](/readme/few_shot_meta.md)
