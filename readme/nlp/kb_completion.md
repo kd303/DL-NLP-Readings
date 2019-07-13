@@ -1,5 +1,7 @@
 # Knowledge Base/Graph Completion and Representation
 
+> Including **Knowledge Base Completion**, **Graph Completion**, **Knowledge Base Representation**, **Graph Representation** and **Relation Classification**.
+
 - [2013 NIPS] **Reasoning With Neural Tensor Networks for Knowledge Base Completion**, [[paper]](https://nlp.stanford.edu/pubs/SocherChenManningNg_NIPS2013.pdf), sources: [[siddharth-agrawal/Neural-Tensor-Network]](https://github.com/siddharth-agrawal/Neural-Tensor-Network), [[dddoss/tensorflow-socher-ntn]](https://github.com/dddoss/tensorflow-socher-ntn).
 - [2013 NIPS] **TransE: Translating Embeddings for Modeling Multi-relational Data**, [[paper]](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
 - [2014 AAAI] **TransH: Knowledge Graph Embedding by Translating on Hyperplanes**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8531/8546), sources: [[thunlp/TensorFlow-TransX]](https://github.com/thunlp/TensorFlow-TransX).
@@ -13,3 +15,4 @@
 - [2017 IJCAI] **Knowledge Transfer for Out-of-Knowledge-Base Entities: A Graph Neural Network Approach**, [[paper]](https://www.ijcai.org/proceedings/2017/0250.pdf), [[bibtex]](/Bibtex/Knowledge%20Transfer%20for%20Out-of-Knowledge-Base%20Entities%20-%20A%20Graph%20Neural%20Network%20Approach.bib), [[blog]](https://zhuanlan.zhihu.com/p/39822646).
 - [2018 AAAI] **SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings**, [[paper]](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16839/15882), [[bibtex]](/Bibtex/Discovering%20Conceptual%20Primitives%20for%20Sentiment%20Analysis%20by%20Means%20of%20Context%20Embeddings.bib), sources: [[IsaacChanghau/ConceptualPrimitives]](https://github.com/IsaacChanghau/ConceptualPrimitives).
 - [2018 AAAI] **Convolutional 2D Knowledge Graph Embeddings**, [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17366/15884), [[bibtex]](/Bibtex/Convolutional%202D%20Knowledge%20Graph%20Embeddings.bib), sources: [[TimDettmers/ConvE]](https://github.com/TimDettmers/ConvE).
+- [2019 AAAI] **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**, [[paper]](https://gaotianyu1350.github.io/assets/aaai2019_hatt_paper.pdf), [[bibtex]](/Bibtex/Hybrid%20Attention-Based%20Prototypical%20Networks%20for%20Noisy%20Few-Shot%20Relation%20Classification.bib), sources: [[thunlp/HATT-Proto]](https://github.com/thunlp/HATT-Proto).
