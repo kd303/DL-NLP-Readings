@@ -16,6 +16,7 @@
 - [2019 NAACL] **ExCL: Extractive Clip Localization Using Natural Language Descriptions**, [[paper]](https://www.aclweb.org/anthology/N19-1198), [[bibtex]](/Bibtex/ExCL%20-%20Extractive%20Clip%20Localization%20Using%20Natural%20Language%20Descriptions.bib).
 - [2019 AAAI] **Localizing Natural Language in Videos**, [[paper]](http://forestlinma.com/welcome_files/Jingyuan_Chen_Localizing_Natural_Language_In_Videos_AAAI_2019.pdf), [[bibtex]](/Bibtex/Localizing%20Natural%20Language%20in%20Videos.bib).
 - [2019 AAAI] **Multilevel Language and Vision Integration for Text-to-Clip Retrieval**, [[paper]](https://arxiv.org/pdf/1804.05113.pdf), [[bibtex]](/Bibtex/Multilevel%20Language%20and%20Vision%20Integration%20for%20Text-to-Clip%20Retrieval.bib), sources: [[VisionLearningGroup/Text-to-Clip_Retrieval]](https://github.com/VisionLearningGroup/Text-to-Clip_Retrieval).
+- [2019 CVPR] **MAN: Moment Alignment Network for Natural Language Moment Retrieval via Iterative Graph Adjustment**, [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_MAN_Moment_Alignment_Network_for_Natural_Language_Moment_Retrieval_via_CVPR_2019_paper.pdf), [[bibtex]](/Bibtex/MAN%20-%20Moment%20Alignment%20Network%20for%20Natural%20Language%20Moment%20Retrieval%20via%20Iterative%20Graph%20Adjustment.bib).
 
 
 ## Image Processing
