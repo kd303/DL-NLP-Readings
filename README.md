@@ -9,7 +9,7 @@
     3. [Machine Translation and Language Style Transfer](/readme/nlp/machine_translation.md)
     4. [Machine Comprehension and Question Answering](/readme/nlp/machine_comprehension.md)
     5. [Dialogue, Chatbot and NLG Systems](/readme/nlp/dialogue.md)
-    6. [Sequence Labeling (POS, NER, SRL, RE, DP, EL and etc.)](/readme/nlp/sequence_labeling.md)
+    6. [Sequence Labeling (POS, NER, SRL, RE, DP, EL, etc.)](/readme/nlp/sequence_labeling.md)
     7. [Knowledge Base Completion and Representation](/readme/nlp/kb_completion.md)
     8. [Sentiment Analysis and Text Classification](/readme/nlp/classification.md)
     9. [Char/Word Embeddings and Language Modeling Systems](/readme/nlp/emb_lm.md)
